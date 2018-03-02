@@ -1,4 +1,1 @@
-print("HI")
-print("Where are you")
-ooooo	
-print("JJL")
+print("In the name of God")
